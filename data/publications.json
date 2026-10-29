@@ -1,0 +1,340 @@
+[
+  {
+    "id": "book-2026",
+    "year": 2026,
+    "type": "Book",
+    "title": "Modern Electrical & Electronic Measurement Labs",
+    "authors": "G. C. Seritan, T. I. Voicila, I. Vilciu, B. A. Enache",
+    "venue": "Editura POLITEHNICA Press, Bucharest · 172 pages · ISBN 978-630-339-035-2",
+    "topics": [
+      "Education & laboratories",
+      "Measurement & instrumentation"
+    ]
+  },
+  {
+    "id": "data-ocv-2026",
+    "year": 2026,
+    "type": "Dataset",
+    "title": "24-Hour Raw OCV Relaxation Dataset for Rechargeable Batteries with Different Chemistries",
+    "authors": "Iulian-Teodor Voicila, Bogdan-Adrian Enache, Irina Vilciu, George-Calin Seritan",
+    "venue": "IEEE DataPort · CC BY 4.0",
+    "doi": "10.21227/651q-8v82",
+    "topics": [
+      "Batteries & second life"
+    ]
+  },
+  {
+    "id": "data-cdc-2026",
+    "year": 2026,
+    "type": "Dataset",
+    "title": "Battery Charge-Discharge Voltage Curves",
+    "authors": "Iulian-Teodor Voicila, Bogdan-Adrian Enache, Irina Vilciu, George Calin Seritan",
+    "venue": "IEEE DataPort · CC BY 4.0",
+    "doi": "10.21227/cm0f-jg66",
+    "topics": [
+      "Batteries & second life"
+    ]
+  },
+  {
+    "id": "mee-2026",
+    "year": 2026,
+    "type": "Software",
+    "title": "MEE - A Bilingual Gamified Learning Application for Electrical and Electronic Measurements, with App-Generated Instrument Figures",
+    "authors": "Iulian-Teodor Voicilă",
+    "venue": "Zenodo · source code under Apache-2.0",
+    "doi": "10.5281/zenodo.23105028",
+    "topics": [
+      "Education & laboratories",
+      "Measurement & instrumentation"
+    ]
+  },
+  {
+    "id": "upb-2025",
+    "year": 2025,
+    "type": "Journal article",
+    "title": "A High-Speed Multi-Chemistry and Multi-Battery State-of-Health Screening System for Retired Lithium-Ion Batteries",
+    "authors": "Teodor-Iulian Voicila, Bogdan-Adrian Enache, Mihaela-Viorica Mateescu, George-Calin Seritan",
+    "venue": "U.P.B. Scientific Bulletin, Series C - Electrical Engineering and Computer Science · Vol. 87 · Issue 3",
+    "url": "https://www.scientificbulletin.upb.ro/static/pdfs/full824_540621.pdf",
+    "wos": "WOS:001562110500021",
+    "topics": [
+      "Batteries & second life",
+      "Power electronics"
+    ]
+  },
+  {
+    "id": "batteries-2025",
+    "year": 2025,
+    "type": "Journal article",
+    "title": "Enhanced OCV Estimation in LiFePO4 Batteries: A Novel Statistical Approach Leveraging Real-Time Knee/Elbow Detection",
+    "authors": "Teodor-Iulian Voicila, Bogdan-Adrian Enache, Vasilis Argyriou, Panagiotis Sarigiannidis, Mihai-Alexandru Pisla, George-Calin Seritan",
+    "venue": "Batteries (MDPI) · Vol. 11 · Issue 5 · Article 186",
+    "doi": "10.3390/batteries11050186",
+    "wos": "WOS:001496608900001",
+    "topics": [
+      "Batteries & second life"
+    ]
+  },
+  {
+    "id": "electronics-2025",
+    "year": 2025,
+    "type": "Journal article",
+    "title": "High-Speed SMVs Subscriber Design for FPGA Architectures",
+    "authors": "Mihai-Alexandru Pisla, Bogdan-Adrian Enache, Vasilis Argyriou, Panagiotis Sarigiannidis, Teodor-Iulian Voicila, George-Calin Seritan",
+    "venue": "Electronics (MDPI) · Vol. 14 · Issue 11 · Article 2135",
+    "doi": "10.3390/electronics14112135",
+    "wos": "WOS:001505875500001",
+    "topics": [
+      "Power systems & communication"
+    ]
+  },
+  {
+    "id": "book-2025",
+    "year": 2025,
+    "type": "Book",
+    "title": "Electrical Experiments - From Fundamentals to Advanced Measurements, Vol. 2",
+    "authors": "G. C. Seritan, B. A. Enache, I. Vilciu, T. I. Voicila",
+    "venue": "Editura POLITEHNICA Press, Bucharest · 91 pages · ISBN 978-630-339-006-2",
+    "topics": [
+      "Education & laboratories",
+      "Measurement & instrumentation"
+    ]
+  },
+  {
+    "id": "patent-2025",
+    "year": 2025,
+    "type": "Patent application",
+    "title": "Metodă și sistem de sortare automată a bateriilor care și-au atins limita de viață în vederea reutilizării lor",
+    "translation": "Method and system for the automatic sorting of end-of-life batteries for reuse",
+    "authors": "B. A. Enache, T. I. Voicila, G. C. Seritan",
+    "venue": "Romanian patent application A139035/30.07.2025 · published in BOPI no. 7/2025, p. 27",
+    "topics": [
+      "Batteries & second life"
+    ]
+  },
+  {
+    "id": "rrst-2024",
+    "year": 2024,
+    "type": "Journal article",
+    "title": "Analysis of Bidirectional DC-DC Power Converters for Screening Systems of Retired Batteries",
+    "authors": "Teodor-Iulian Voicila, George-Calin Seritan, Bogdan-Adrian Enache",
+    "venue": "Revue Roumaine des Sciences Techniques - Série Électrotechnique et Énergétique · Vol. 69 · Issue 3 · pp. 311-316",
+    "doi": "10.59277/RRST-EE.2024.69.3.10",
+    "wos": "WOS:001319210900010",
+    "topics": [
+      "Batteries & second life",
+      "Power electronics"
+    ]
+  },
+  {
+    "id": "book-2024",
+    "year": 2024,
+    "type": "Book",
+    "title": "Electrical Experiments - From Fundamentals to Advanced Measurements, Vol. 1",
+    "authors": "G. C. Seritan, B. A. Enache, I. Vilciu, T. I. Voicila",
+    "venue": "Editura POLITEHNICA Press, Bucharest · 95 pages · ISBN 978-630-339-001-7",
+    "topics": [
+      "Education & laboratories",
+      "Measurement & instrumentation"
+    ]
+  },
+  {
+    "id": "pitesti-2023b",
+    "year": 2023,
+    "type": "Journal article",
+    "title": "Comparative Analysis of Medical Equipment Identification Techniques: A Multifaceted Approach for Enhanced Hospital Operations",
+    "authors": "T. I. Voicila, A.-G. Bogdan, B.-A. Enache",
+    "venue": "University of Pitești Scientific Bulletin, Series: Electronics and Computer Science · Vol. 23 · Issue 2 · pp. 7-12",
+    "url": "https://ceps.upit.ro/archive/view/2023_2_2.html",
+    "topics": [
+      "Biomedical & healthcare systems"
+    ]
+  },
+  {
+    "id": "emerg-2023",
+    "year": 2023,
+    "type": "Journal article",
+    "title": "Evaluating the State of Health of Lead-Acid Battery Used in UPS",
+    "authors": "Stavros Gkanatsios, Irina Vilciu, Teodor-Iulian Voicila",
+    "venue": "EMERG - Energy. Environment. Efficiency. Resources. Globalization · Vol. 9 · Issue 3 · pp. 50-61",
+    "doi": "10.37410/emerg.2023.3.03",
+    "topics": [
+      "Batteries & second life"
+    ]
+  },
+  {
+    "id": "pitesti-2023a",
+    "year": 2023,
+    "type": "Journal article",
+    "title": "Guidelines for Developing an IoT-Enabled Application for Enhanced Hospital Management",
+    "authors": "T. I. Voicila, A.-G. Bogdan, B.-A. Enache",
+    "venue": "University of Pitești Scientific Bulletin, Series: Electronics and Computer Science · Vol. 23 · Issue 2 · pp. 1-6",
+    "url": "https://ceps.upit.ro/archive/view/2023_2_1.html",
+    "topics": [
+      "Biomedical & healthcare systems"
+    ]
+  },
+  {
+    "id": "atee-2023b",
+    "year": 2023,
+    "type": "Conference paper",
+    "title": "An Indoor Air Quality Score Computation and System",
+    "authors": "Irina Vîlciu, Bogdan-Adrian Enache, George-Călin Serițan, Teodor-Iulian Voicilă",
+    "venue": "2023 13th International Symposium on Advanced Topics in Electrical Engineering (ATEE) · IEEE · pp. 1-4",
+    "doi": "10.1109/ATEE58038.2023.10108307",
+    "topics": [
+      "Measurement & instrumentation"
+    ]
+  },
+  {
+    "id": "mps-2023",
+    "year": 2023,
+    "type": "Conference paper",
+    "title": "Design and Implementation of a Multi-Battery, Multi-Chemistry State of Health Screening System",
+    "authors": "Teodor-Iulian Voicila, George-Calin Seritan, Bogdan-Adrian Enache, Marilena Stanculescu, Radu-Florin Porumb",
+    "venue": "2023 10th International Conference on Modern Power Systems (MPS) · IEEE · pp. 1-4",
+    "doi": "10.1109/MPS58874.2023.10187442",
+    "topics": [
+      "Batteries & second life",
+      "Power electronics"
+    ]
+  },
+  {
+    "id": "atee-2023a",
+    "year": 2023,
+    "type": "Conference paper",
+    "title": "First Steps Towards the Design of a Multi-Chemistry, Multi-Battery State of Health Screening System",
+    "authors": "Teodor-Iulian Voicilă, George-Călin Serițan, Bogdan-Adrian Enache, Radu Porumb, Marilena Stănculescu",
+    "venue": "2023 13th International Symposium on Advanced Topics in Electrical Engineering (ATEE) · IEEE · pp. 1-6",
+    "doi": "10.1109/ATEE58038.2023.10108169",
+    "topics": [
+      "Batteries & second life"
+    ]
+  },
+  {
+    "id": "ecai-2023",
+    "year": 2023,
+    "type": "Conference paper",
+    "title": "Statistical Analysis of Capacity Loss for Stored Batteries",
+    "authors": "Luminita-Mirela Constantinescu, Bogdan-Adrian Enache, Violeta-Georgiana Dogaru, Teodor Iulian Voicila, Irina Vilciu, Silvia-Carmen Vasile",
+    "venue": "2023 15th International Conference on Electronics, Computers and Artificial Intelligence (ECAI) · IEEE · pp. 1-4",
+    "doi": "10.1109/ECAI58194.2023.10193945",
+    "topics": [
+      "Batteries & second life"
+    ]
+  },
+  {
+    "id": "jeeeccs-2022",
+    "year": 2022,
+    "type": "Journal article",
+    "title": "Accurate Modelling of an Online Uninterrupted Power Supply",
+    "authors": "Costin Hedwig Gandescu, Stavros Gkanatsios, Costin Cepisca, Irina Vilciu, Teodor Iulian Voicila",
+    "venue": "Journal of Electrical Engineering, Electronics, Control and Computer Science · Vol. 8 · Issue 4 · pp. 45-50",
+    "url": "https://jeeeccs.net/index.php/journal/article/view/307",
+    "topics": [
+      "Power electronics"
+    ]
+  },
+  {
+    "id": "ehb-2022",
+    "year": 2022,
+    "type": "Conference paper",
+    "title": "A Multipurpose Video Immersion Laboratory",
+    "authors": "Sorin Dan Grigorescu, George-Calin Seritan, Bogdan-Adrian Enache, Felix-Constantin Adochiei, Florin-Ciprian Argatu, Irina Vilciu, Teodor-Iulian Voicila",
+    "venue": "2022 E-Health and Bioengineering Conference (EHB) · IEEE · pp. 1-4",
+    "doi": "10.1109/EHB55594.2022.9991365",
+    "topics": [
+      "Education & laboratories"
+    ]
+  },
+  {
+    "id": "ecai-2022",
+    "year": 2022,
+    "type": "Conference paper",
+    "title": "Energy Evaluation of Bugs vs Birds Path Planning Strategies for Robots",
+    "authors": "Bogdan-Adrian Enache, Sorin-Dan Grigorescu, Florin-Ciprian Argatu, Felix-Constantin Adochiei, Irina Vilciu, Teodor-Iulian Voicila",
+    "venue": "2022 14th International Conference on Electronics, Computers and Artificial Intelligence (ECAI) · IEEE · pp. 1-4",
+    "doi": "10.1109/ECAI54874.2022.9847441",
+    "topics": [
+      "Measurement & instrumentation"
+    ]
+  },
+  {
+    "id": "atee-2021",
+    "year": 2021,
+    "type": "Conference paper",
+    "title": "Flyback Converter for a Multi-Chemistry Battery Balancer",
+    "authors": "Bogdan-Adrian Enache, George-Calin Seritan, Costin Cepisca, Sorin-Dan Grigorescu, Florin-Ciprian Argatu, Felix-Constantin Adochiei, Teodor-Iulian Voicila",
+    "venue": "2021 12th International Symposium on Advanced Topics in Electrical Engineering (ATEE) · IEEE · pp. 1-6",
+    "doi": "10.1109/ATEE52255.2021.9425205",
+    "wos": "WOS:000676164800086",
+    "topics": [
+      "Batteries & second life",
+      "Power electronics"
+    ]
+  },
+  {
+    "id": "ehb-2021a",
+    "year": 2021,
+    "type": "Conference paper",
+    "title": "Monitoring System for Patients with Epilepsy",
+    "authors": "Andra-Laura Dobre, Violeta-Vasilica Argatu, Cristina-Daniela Enache, Teodor-Iulian Voicila, Daniel-Iulian Voiculescu",
+    "venue": "2021 International Conference on e-Health and Bioengineering (EHB) · IEEE · pp. 1-4",
+    "doi": "10.1109/EHB52898.2021.9657602",
+    "wos": "WOS:000802227900063",
+    "topics": [
+      "Biomedical & healthcare systems"
+    ]
+  },
+  {
+    "id": "ehb-2021b",
+    "year": 2021,
+    "type": "Conference paper",
+    "title": "The Identification and Classification of Facial Expressions under Stress Using an EMG",
+    "authors": "Corina Ene, Ioana Adochiei, Cristina-Daniela Enache, Teodor-Iulian Voicila, Daniel Iulian Voiculescu",
+    "venue": "2021 International Conference on e-Health and Bioengineering (EHB) · IEEE · pp. 1-6",
+    "doi": "10.1109/EHB52898.2021.9657559",
+    "wos": "WOS:000802227900024",
+    "topics": [
+      "Biomedical & healthcare systems"
+    ]
+  },
+  {
+    "id": "patent-2021",
+    "year": 2021,
+    "type": "Patent application",
+    "title": "Echipament inteligent pentru echilibrarea activă a grupurilor de baterii tip Pb-Acid și Li-Ion",
+    "translation": "Intelligent equipment for the active balancing of lead-acid and Li-ion battery groups",
+    "authors": "B. A. Enache, T. I. Voicila, C. Cepisca, A. G. Neacsu",
+    "venue": "Romanian patent application A100127/25.03.2021 · published in BOPI no. 8/2021, p. 46",
+    "topics": [
+      "Batteries & second life",
+      "Power electronics"
+    ]
+  },
+  {
+    "id": "rrst-2020",
+    "year": 2020,
+    "type": "Journal article",
+    "title": "Comparative Study of Screening Methods for Second Life LiFePO4 Batteries",
+    "authors": "Bogdan-Adrian Enache, George-Calin Seritan, Costin Cepisca, Sorin-Dan Grigorescu, Florin-Ciprian Argatu, Felix-Constantin Adochiei, Teodor-Iulian Voicila",
+    "venue": "Revue Roumaine des Sciences Techniques - Série Électrotechnique et Énergétique · Vol. 65 · Issue 1-2 · pp. 71-74",
+    "url": "http://www.revue.elth.pub.ro/upload/25045613_BEnache_RRST_1-2_2020_pp_71-74.pdf",
+    "wos": "WOS:000552052900012",
+    "topics": [
+      "Batteries & second life"
+    ]
+  },
+  {
+    "id": "epe-2020",
+    "year": 2020,
+    "type": "Conference paper",
+    "title": "A Battery Screening System for Second Life LiFePO4 Batteries",
+    "authors": "Bogdan-Adrian Enache, George-Calin Seritan, Sorin-Dan Grigorescu, Costin Cepisca, Felix-Constantin Adochiei, Violeta-Vasilica Argatu, Teodor Iulian Voicila",
+    "venue": "2020 International Conference and Exposition on Electrical and Power Engineering (EPE) · IEEE · pp. 298-301",
+    "doi": "10.1109/EPE50722.2020.9305538",
+    "topics": [
+      "Batteries & second life"
+    ]
+  }
+]
